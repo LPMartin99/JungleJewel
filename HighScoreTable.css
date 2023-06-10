@@ -1,0 +1,24 @@
+.table-view .table-cell {
+    -fx-font-weight: bold;
+    -fx-font: 15px SimSun;
+    -fx-text-fill: black;
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+}
+
+.table-view .column-header {
+    -fx-background-color: #6a9785;
+    -fx-font-weight: bold;
+    -fx-font: 20px SimSun;
+    -fx-text-fill: black;
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+}
+
+.table-row-cell: odd {
+    -fx-background-color: #6aab85;
+}
+
+.table-row-cell: even {
+    -fx-background-color: #6a9785;
+}

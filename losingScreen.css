@@ -1,0 +1,18 @@
+.root {
+    -fx-font-weight: bold;
+    -fx-background-image: url("images/menuimage.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: stretch;
+}
+.button {
+    -fx-pref-width: 130px;
+    -fx-font: 15px Papyrus;
+    -fx-background-color: #c9f2e0;
+    -fx-border-color: #4a6b58;
+    -fx-background-insets: 0;
+}
+
+.label {
+    -fx-font: 90px Papyrus;
+    -fx-text-fill: white;
+}
